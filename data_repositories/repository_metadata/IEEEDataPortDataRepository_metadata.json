@@ -1,0 +1,5254 @@
+{
+  "reconfigurable-antenna-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 2.75
+  },
+  "recon-transformer-dataset-training-projection-images-real-masked-images-and-pre-trained": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "exr": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 4.57
+  },
+  "experiment-datasets-kdg-rec": {
+    "formats": {},
+    "execution_time_sec": 6.52
+  },
+  "pan-omics-computational-engine-pce-entropy-driven-framework-self-evolving-digital-twins": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 8.47
+  },
+  "information-soil-samples-0": {
+    "formats": {},
+    "execution_time_sec": 10.25
+  },
+  "urban-traffic-st-kg-data": {
+    "formats": {},
+    "execution_time_sec": 12.12
+  },
+  "eit-real-world-dataset-and-simulation-dataset": {
+    "formats": {
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 13.87
+  },
+  "wearable-sensor-based-analysis-aerial-archimedean-spirals-early-detection-parkinsons": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 15.86
+  },
+  "deep-learning-effective-clipping-noise-mitigation": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 17.63
+  },
+  "isoneandsouthernchinadatasets": {
+    "formats": {},
+    "execution_time_sec": 20.14
+  },
+  "iot-device-identification-through-network-traffic-analysis-testbed": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "pcap": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 21.9
+  },
+  "multi-parameter-clinical-dataset-chronic-liver-disease-assessment": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 23.65
+  },
+  "vast-life-wire": {
+    "formats": {},
+    "execution_time_sec": 25.39
+  },
+  "dataset-personalized-low-invasive-evaluation-chronic-endometritis-premenopausal-women": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 27.14
+  },
+  "survey-based-dataset-exploring-attitudes-toward-womens-employment-education-sector-jaipur": {
+    "formats": {
+      "xslx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 29.15
+  },
+  "lung-cancer-tcr-early-screening": {
+    "formats": {
+      "data": {
+        "count": 1,
+        "sizes": []
+      },
+      "excel": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 31.65
+  },
+  "novel-eog-based-approach-assessment-and-intervention-pediatric-dyslexia": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 33.42
+  },
+  "protein-localization-immunohistochemistry-images-using-multi-scale-features-and-deep": {
+    "formats": {},
+    "execution_time_sec": 35.19
+  },
+  "ai-based-explainable-hybrid-model-early-prediction-diabetes-0": {
+    "formats": {
+      "and": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      },
+      "text": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 36.95
+  },
+  "5g-channel-dataset": {
+    "formats": {
+      "npy": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 38.72
+  },
+  "x-phide-phishing-and-legitimate-urls-features": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 40.52
+  },
+  "toward-sensor-fusion-neuromuscular-interface-continuous-finger-joint-angle-estimation": {
+    "formats": {
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 42.28
+  },
+  "pilot-study-utilization-ai-assist-learning-java-programming": {
+    "formats": {
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 44.97
+  },
+  "underwater-image-enhancement-network-mie-net": {
+    "formats": {
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 47.48
+  },
+  "raw-fnirs-data-participants": {
+    "formats": {},
+    "execution_time_sec": 3.93
+  },
+  "dataset-16851-technology-related-crowdfunding-campaigns-kickstarter": {
+    "formats": {},
+    "execution_time_sec": 6.47
+  },
+  "simulatedprimodulationsequencedataformulti-functionradar": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 9.1
+  },
+  "bctnet": {
+    "formats": {},
+    "execution_time_sec": 11.6
+  },
+  "aligning-public-funding-and-innovation-successful-ict-case-study-spain": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 14.14
+  },
+  "recruitment-job-postings-text-classification-results-ai-environmental-protection-other": {
+    "formats": {},
+    "execution_time_sec": 16.88
+  },
+  "strokepin": {
+    "formats": {
+      "xls": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 18.65
+  },
+  "transmedia-storytelling-and-community-consciousness-construction-grand-canal-intangible": {
+    "formats": {},
+    "execution_time_sec": 20.61
+  },
+  "public-dataset-air-conditioner-faults-1": {
+    "formats": {},
+    "execution_time_sec": 22.39
+  },
+  "product-safety": {
+    "formats": {
+      "doc": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 25.53
+  },
+  "remac": {
+    "formats": {},
+    "execution_time_sec": 27.32
+  },
+  "net-load-dataset-collected-industrial-microgird-china": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 30.0
+  },
+  "material-parameter-dataset-robot-manipulator-stability": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 32.52
+  },
+  "traffic-dataset": {
+    "formats": {},
+    "execution_time_sec": 34.26
+  },
+  "ai-reconstructed-mec-adad-study-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 36.9
+  },
+  "stock-crash-prediction-dataset-korean-market": {
+    "formats": {
+      "parquet": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 39.59
+  },
+  "saudi-amateur-radio-society-hydrogen-line-recordings": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 42.92
+  },
+  "beyond-automated-drills-human-centric-framework-receptive-competence": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 44.88
+  },
+  "research-photo-electric-isac-predict-nitrogen-content-lettuce": {
+    "formats": {},
+    "execution_time_sec": 47.52
+  },
+  "dataset-multilingual-and-accent-aware-transformation-read-speech-conversational-speech": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 49.27
+  },
+  "stock-reliance-power-dataset": {
+    "formats": {
+      "excel": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 51.06
+  },
+  "2023-subiaco-wa-3d-hd-lidar-point-cloud-maps-dataset": {
+    "formats": {
+      "ply": {
+        "count": 1,
+        "sizes": []
+      },
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "bin": {
+        "count": 1,
+        "sizes": []
+      },
+      "bytes": {
+        "count": 1,
+        "sizes": []
+      },
+      "log": {
+        "count": 1,
+        "sizes": []
+      },
+      "obj": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "mp4": {
+        "count": 1,
+        "sizes": []
+      },
+      "pt": {
+        "count": 2,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 52.84
+  },
+  "noise-power-spectral-density-and-iv-characteristic-p-type-organic-field-effect-transistor": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 55.41
+  },
+  "2025-subiaco-wa-3d-hd-lidar-gnss-point-cloud-maps-dataset": {
+    "formats": {},
+    "execution_time_sec": 57.87
+  },
+  "datasets-amart": {
+    "formats": {},
+    "execution_time_sec": 2.21
+  },
+  "pq-v2xthe-dataset-paper-pq-v2x-novel-post-quantum-cryptographic-dataset-secure-vehicular": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 3.96
+  },
+  "gradient-step-design-economic-scalable-transversal-uniform-magnetic-field-using-permanent": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 6.51
+  },
+  "welldata": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 8.27
+  },
+  "hqcmd-dataset-paper-ieef-enhancing-commit-message-generation-segmenting-key-information": {
+    "formats": {
+      "json": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 10.05
+  },
+  "hfi-hyperfabric-interconnect-evaluation-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 12.52
+  },
+  "laniteds-fr4-inspection-dataset-lfr4id": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "yaml": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 15.02
+  },
+  "yanar-evaluation-datasets": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 16.84
+  },
+  "morphology-correlated-quantitative-fluorescence-data-r6g": {
+    "formats": {},
+    "execution_time_sec": 18.61
+  },
+  "ase-banking-data": {
+    "formats": {
+      "xls": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 20.44
+  },
+  "pow-vs-pos": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 22.23
+  },
+  "eapcb-dataset-specifically-designed-automated-optical-inspection-aoi-equipment": {
+    "formats": {},
+    "execution_time_sec": 23.97
+  },
+  "indian-traffic-vqa-dataset": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 25.8
+  },
+  "fakecoco-0": {
+    "formats": {},
+    "execution_time_sec": 28.23
+  },
+  "youtube-gunshot": {
+    "formats": {},
+    "execution_time_sec": 30.6
+  },
+  "data-accompany-milp-unit-commitment-models-accounting-operational-flexibility-during": {
+    "formats": {},
+    "execution_time_sec": 33.01
+  },
+  "papillary-thyroid-carcinoma-dataset": {
+    "formats": {
+      "zip": {
+        "count": 2,
+        "sizes": []
+      },
+      "bmp": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 34.81
+  },
+  "dataset-data-driven-framework-identifying-key-technologies-and-analyzing-evolutionary": {
+    "formats": {},
+    "execution_time_sec": 37.28
+  },
+  "asset-structure-data": {
+    "formats": {},
+    "execution_time_sec": 39.05
+  },
+  "station-position-correction-cat": {
+    "formats": {},
+    "execution_time_sec": 41.66
+  },
+  "uav-trajectory-planning-strategy-complex-environments-multiple-task-nodes-and-obstacles": {
+    "formats": {},
+    "execution_time_sec": 44.19
+  },
+  "assessment-lithium-ion-battery-degradation-electric-aircraft-under-cycle-progressive-load": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 45.97
+  },
+  "dataset-chao-wang-awpl": {
+    "formats": {
+      "xls": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 47.77
+  },
+  "lio-test-dataset-uav-inspection": {
+    "formats": {},
+    "execution_time_sec": 49.56
+  },
+  "lower-limb-neuromuscular-responses-waist-pull-perturbations-during-reactive-stepping": {
+    "formats": {},
+    "execution_time_sec": 2.63
+  },
+  "trnews-2025-multiclass-turkish-news-text-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 4.39
+  },
+  "deep-balanced-prior-refined-self-supervised-reconstruction-snapshot-spectral-compressive": {
+    "formats": {},
+    "execution_time_sec": 6.87
+  },
+  "mim-vqa": {
+    "formats": {},
+    "execution_time_sec": 9.4
+  },
+  "driving-simulator-data": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 11.94
+  },
+  "dataset-destine-block": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 14.95
+  },
+  "antenna-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 17.43
+  },
+  "hybrid-wi-fible-fingerprint-third-floor-faculty-electrical-and-computer-engineering": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 19.88
+  },
+  "xr-extended-reality-based-real-time-open-heart-surgery-platform-recommended-awe-0": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xml": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 22.53
+  },
+  "thesis-data": {
+    "formats": {},
+    "execution_time_sec": 24.33
+  },
+  "driving-global-trade-efficiency-leading-logistics-company-smart-cargo-shipment-tracking": {
+    "formats": {},
+    "execution_time_sec": 27.0
+  },
+  "extended-reality-bio-sensor-interfacing": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xml": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 28.77
+  },
+  "top-mistakes-avoid-while-preparing-enrolled-agent-course": {
+    "formats": {},
+    "execution_time_sec": 30.55
+  },
+  "virtual-domain-guided-cross-modal-distillation-multi-view-correlation-awareness": {
+    "formats": {},
+    "execution_time_sec": 33.05
+  },
+  "teaweed-action-vision-based-dataset-weeding-behavior-recognition-tea-plantations": {
+    "formats": {
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 35.68
+  },
+  "ieee-39-ieee-118-and-real-world-provincial-power-system-cascading-failure-dataset": {
+    "formats": {
+      "pt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 37.47
+  },
+  "whole-body-multi-site-skeletal-x-ray-imaging-dataset-ai-aided-opportunistic-osteoporosis": {
+    "formats": {
+      "zip": {
+        "count": 2,
+        "sizes": []
+      },
+      "bmp": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 39.38
+  },
+  "roadsignvision-dataset-informational-and-commercial-road-signs": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 41.95
+  },
+  "small-arthropod-target-detection-datasets": {
+    "formats": {},
+    "execution_time_sec": 44.7
+  },
+  "beyond-arms-reach-revisiting-3d-interaction-techniques-virtual-display-management": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "exr": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 46.6
+  },
+  "eggi-nnovation-biologically-inspired-framework": {
+    "formats": {},
+    "execution_time_sec": 49.34
+  },
+  "photovoltaic-iv-curves-soiling-analysis": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 51.29
+  },
+  "lightweight-degradation-aware-super-resolution-ldasr-framework": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 54.09
+  },
+  "novel-bioinformatics-pipeline-and-machine-learning-approach-antimicrobial-resistance": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 56.57
+  },
+  "data-control-pmsm-fusion-fractional-order-repetitive-control-and-equivalent-input": {
+    "formats": {},
+    "execution_time_sec": 3.84
+  },
+  "burn-2-multiclass-rgb-dataset-prescribed-burn-analysis-using-context-aware-data": {
+    "formats": {
+      "png": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 5.61
+  },
+  "real-net-deep-cc-data": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 9.02
+  },
+  "hybrid-sem-ann-nca-study-multi-dimensional-driving-mechanism-merchants-use-digital-rmb": {
+    "formats": {},
+    "execution_time_sec": 11.9
+  },
+  "minemil-minority-enhanced-mil-fine-grained-lymph-node-metastasis-classification": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 14.83
+  },
+  "supplemental-material-paper-entitled-handling-data-complexity-and-class-imbalance": {
+    "formats": {
+      "xls": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 18.2
+  },
+  "data-and-code": {
+    "formats": {},
+    "execution_time_sec": 20.84
+  },
+  "eurecom-5g-srs-dataset": {
+    "formats": {
+      "hdf5": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 22.63
+  },
+  "new-promise-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 25.63
+  },
+  "dataset-congo-basins-twsa-reconstruction": {
+    "formats": {},
+    "execution_time_sec": 28.02
+  },
+  "experimentaldataformulticell": {
+    "formats": {},
+    "execution_time_sec": 31.15
+  },
+  "dataset-3232-cu-luminance-value-matrices-and-corresponding-partition-mode-annotations": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 33.78
+  },
+  "self-powered-and-temperature-sensitive-photodetector-based-vo2-films-novel": {
+    "formats": {},
+    "execution_time_sec": 35.54
+  },
+  "mspb-latency-and-throughput": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 38.48
+  },
+  "dataset-unraveling-affective-states-auriculomotor-system": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 41.15
+  },
+  "dronesenti-new-dataset-annotated-sentiment-drone-related-online-posts": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 43.93
+  },
+  "kaggle-based-fer2013-dataset": {
+    "formats": {},
+    "execution_time_sec": 46.58
+  },
+  "synthetic-gps-dataset-ai-based-spoofing-detection-maritime-autonomous-surface-ships": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 49.1
+  },
+  "rtm-superaerodatabase": {
+    "formats": {},
+    "execution_time_sec": 50.99
+  },
+  "cadot-cityscape-aerial-dataset-object-detection": {
+    "formats": {},
+    "execution_time_sec": 53.65
+  },
+  "electric-vehicle-charging-station-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 55.43
+  },
+  "investigating-website-fingerprinting-defense-server-side-perspective": {
+    "formats": {
+      "pickle": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 57.23
+  },
+  "language-driven-bimanual-cloth-manipulation-llm-planning-and-part-aware-perception": {
+    "formats": {},
+    "execution_time_sec": 60.36
+  },
+  "turkiye-innovation-performance-dataset": {
+    "formats": {
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 62.18
+  },
+  "llm-political-bias-using-zero-shot-classification-fine-tuned-ml": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 2.62
+  },
+  "burn-1-multiclass-rgb-dataset-prescribed-burn-analysis-using-non-contextual-data": {
+    "formats": {
+      "png": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 5.41
+  },
+  "synmultivid-synthetic-multi-modal-video-dataset-cross-modal-correspondence-evaluation": {
+    "formats": {
+      "mp4": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 8.23
+  },
+  "research-data-thinklens": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 10.23
+  },
+  "prakriti200": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 12.91
+  },
+  "trajaware-road-networks-and-trajectories": {
+    "formats": {},
+    "execution_time_sec": 15.41
+  },
+  "data-cards": {
+    "formats": {
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 17.96
+  },
+  "pipescornelldataset": {
+    "formats": {},
+    "execution_time_sec": 20.59
+  },
+  "return-and-success-rate-training-data-push-task-using-att-h-td-mpc2-algorithms": {
+    "formats": {},
+    "execution_time_sec": 23.1
+  },
+  "hlx-nlvm-iot-evaluation-traces-wot-tds-and-manifests-v10-paper": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 26.31
+  },
+  "responsible-ai-detecting-dark-patterns": {
+    "formats": {
+      "data": {
+        "count": 1,
+        "sizes": []
+      },
+      "excel": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 29.17
+  },
+  "outer-contour-driven-ruled-surface-generation-linear-hot-wire-rough-machining": {
+    "formats": {},
+    "execution_time_sec": 31.09
+  },
+  "mds-14-datasets-accredited-coverage-index-aciwaci-electric-vehicle-standards-brazil": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 33.75
+  },
+  "datasets-used-classification-and-signal-classification": {
+    "formats": {},
+    "execution_time_sec": 36.21
+  },
+  "enso-dataset": {
+    "formats": {},
+    "execution_time_sec": 38.79
+  },
+  "artstroke": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 41.46
+  },
+  "spectral-virtual-histology-thyroid-specimens-compact-laboratory-x-ray-system": {
+    "formats": {
+      "tiff": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 44.18
+  },
+  "essays-and-evaluations": {
+    "formats": {
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 46.8
+  },
+  "multimodal-approach-efficient-targeted-object-robotic-grasping-3d-cluttered-environments": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 49.42
+  },
+  "lung-sound-data-wearable-stethoscope": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 52.08
+  },
+  "generalisation-automated-algorithm-selection-black-box-optimisation-role-algorithm": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 53.87
+  },
+  "cuviris-subset": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 56.46
+  },
+  "noisecomm": {
+    "formats": {},
+    "execution_time_sec": 59.41
+  },
+  "fm-cgfcn": {
+    "formats": {},
+    "execution_time_sec": 62.15
+  },
+  "data-design-factors-levels": {
+    "formats": {},
+    "execution_time_sec": 6.48
+  },
+  "dataset-adaptive-testcase-generation": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 8.25
+  },
+  "kitti-0": {
+    "formats": {},
+    "execution_time_sec": 9.97
+  },
+  "stressorsdataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 12.55
+  },
+  "chart-alt": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 15.09
+  },
+  "multi-view-tennis-ball-dataset-trajectory-estimation-drone-and-court-cameras-annotated": {
+    "formats": {
+      "xls": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 17.8
+  },
+  "models-preoperative-frailty-and-risk-prediction-elderly-chinese-patients-hepatocellular": {
+    "formats": {},
+    "execution_time_sec": 20.5
+  },
+  "lacas2k-large-scale-aerial-and-satellite-image-dataset-image-super-resolution-vhr-remote": {
+    "formats": {
+      "tif": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 23.18
+  },
+  "dataset-ultrasound-video-frames-gelatin-phantoms": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 26.07
+  },
+  "historical-building-surface-deterioration-dataset": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 27.82
+  },
+  "dataset-mllm-clad-closed-loop-framework": {
+    "formats": {
+      "json": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 30.56
+  },
+  "elgamal-cryptovuln-dataset-2018-2025-window": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 33.39
+  },
+  "systematic-literature-review-accessible-georeferecing-apps": {
+    "formats": {},
+    "execution_time_sec": 36.19
+  },
+  "mvvlp": {
+    "formats": {},
+    "execution_time_sec": 38.85
+  },
+  "bearing-fault-prediction-dataset": {
+    "formats": {},
+    "execution_time_sec": 41.49
+  },
+  "end-effector-interaction-force-continuum-robotic-arms": {
+    "formats": {},
+    "execution_time_sec": 44.07
+  },
+  "dataset-peak-plantar-pressure-values-and-locations-anthropometric-measurements-and": {
+    "formats": {
+      "spreadsheets": {
+        "count": 1,
+        "sizes": []
+      },
+      "excel": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 46.54
+  },
+  "electromagnetic-simulation-results-varactor-based-reconfigurable-intelligent-surface": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 49.65
+  },
+  "hato65-supplementary-data-uav-collision-risk-reduction-method": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 52.2
+  },
+  "loess-landslide-dataset": {
+    "formats": {},
+    "execution_time_sec": 54.9
+  },
+  "security-intelligence-framework-vulnerability-detection-dataset-and-reproducibility": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 56.68
+  },
+  "machine-learning-driven-predictive-maintenance-data": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xml": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 59.29
+  },
+  "skeletal-muscle-rats-imaged-using-cest-mri-technique-preclinical-47t-varian-scanner": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 61.96
+  },
+  "vapt": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 64.62
+  },
+  "quantum-vqe-benchmark-dataset": {
+    "formats": {
+      "sqlite": {
+        "count": 1,
+        "sizes": []
+      },
+      "database": {
+        "count": 1,
+        "sizes": []
+      },
+      "db": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 3.64
+  },
+  "neuromorphic4bitaddercmos": {
+    "formats": {},
+    "execution_time_sec": 6.24
+  },
+  "bidnet": {
+    "formats": {},
+    "execution_time_sec": 8.97
+  },
+  "lightweight-radar-signal-classification-using-wavelet-features-and-machine-learning": {
+    "formats": {},
+    "execution_time_sec": 11.59
+  },
+  "real-world-network-congestion-control-dataset": {
+    "formats": {},
+    "execution_time_sec": 13.52
+  },
+  "al2o3-tio2-and-cr2o3-samples-refectivity-g-and-d-bands": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "tsv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 16.04
+  },
+  "fine-grained-labeled-provenance-graph-dataset-advanced-persistent-threat-detection": {
+    "formats": {},
+    "execution_time_sec": 18.96
+  },
+  "large-scale-annotated-dataset-cross-site-scripting-xss-attack-detection": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 20.81
+  },
+  "hyperspectral-remote-sensing-datasets-indian-pines-pavia-university-botswana-and-salinas": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 22.57
+  },
+  "leaf-trait-annotated-essay-feedback-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 25.4
+  },
+  "dataset-comparative-study-navigability-and-cleaning-efficiency-robot-vacuum-cleaners": {
+    "formats": {
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 27.85
+  },
+  "object-ensonification-active-ultrasonic-sensor": {
+    "formats": {
+      "wav": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 30.4
+  },
+  "recoveryalgorithm2025929": {
+    "formats": {},
+    "execution_time_sec": 33.21
+  },
+  "cgh-data-set": {
+    "formats": {},
+    "execution_time_sec": 36.14
+  },
+  "power-quality-disturbance-waveform-1d-data-and-model": {
+    "formats": {
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      },
+      "bib": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 39.12
+  },
+  "dataset-fluxformer": {
+    "formats": {},
+    "execution_time_sec": 42.19
+  },
+  "leveraging-hierarchical-intensity-adjustment-and-enhanced-state-space-guided-yolo-surface": {
+    "formats": {},
+    "execution_time_sec": 44.09
+  },
+  "millimeter-waveiwr-1443-boost-radar-facial-expression-and-camera-emotion-sensing": {
+    "formats": {
+      "bin": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 46.85
+  },
+  "network-congestion-prediction": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 48.67
+  },
+  "ordercombo": {
+    "formats": {},
+    "execution_time_sec": 51.41
+  },
+  "shanghai-telecom-dataset-multi-agent-reinforcement-learning-and-game-theory-research": {
+    "formats": {},
+    "execution_time_sec": 54.32
+  },
+  "lc-wireless-passive-humidity-sensor-based-go-mxene-composite-material-human-breathing": {
+    "formats": {},
+    "execution_time_sec": 56.09
+  },
+  "btxrd-2024-augmented-bone-tumor-segmentation-and-triage-dataset-balanced-malignant-class": {
+    "formats": {
+      "doc": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      },
+      "pdf": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      },
+      "ipynb": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 59.08
+  },
+  "tihan-adverse-weather-dataset": {
+    "formats": {},
+    "execution_time_sec": 61.48
+  },
+  "tdve-db": {
+    "formats": {},
+    "execution_time_sec": 4.15
+  },
+  "csee-10014-way": {
+    "formats": {},
+    "execution_time_sec": 8.29
+  },
+  "biomedical-regression-dataset": {
+    "formats": {},
+    "execution_time_sec": 11.06
+  },
+  "latent-space-variational-autoencoder-myoelectric-hand-gesture-recognition": {
+    "formats": {},
+    "execution_time_sec": 12.73
+  },
+  "de-dataset": {
+    "formats": {},
+    "execution_time_sec": 14.38
+  },
+  "geoelectromagnetic-data": {
+    "formats": {},
+    "execution_time_sec": 16.03
+  },
+  "traffic-seed-laps": {
+    "formats": {},
+    "execution_time_sec": 17.68
+  },
+  "dataset-training-and-testing-eewcan": {
+    "formats": {},
+    "execution_time_sec": 19.34
+  },
+  "dataset-paper-road-connectivity-enhancement-framework-based-improved-pidnet-and-post": {
+    "formats": {},
+    "execution_time_sec": 20.99
+  },
+  "adressa-dataset-news-recommendation": {
+    "formats": {},
+    "execution_time_sec": 22.65
+  },
+  "mind-large-scale-dataset-news-recommendation": {
+    "formats": {},
+    "execution_time_sec": 24.32
+  },
+  "gym-gesture-classification-using-imu-sensor-dataset": {
+    "formats": {},
+    "execution_time_sec": 25.98
+  },
+  "digital-transformation-data-centers": {
+    "formats": {},
+    "execution_time_sec": 27.61
+  },
+  "domain-model-extraction-user-stories-unleashing-potential-large-language-models-through": {
+    "formats": {},
+    "execution_time_sec": 29.22
+  },
+  "dis-sc-code": {
+    "formats": {
+      "pt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 31.06
+  },
+  "dunghuang-mural-datasets": {
+    "formats": {},
+    "execution_time_sec": 32.72
+  },
+  "mazes-trees-and-graphs-power-law-and-small-word-test-search-algorithms": {
+    "formats": {},
+    "execution_time_sec": 34.43
+  },
+  "large-language-models-problem-solving-skills-programming-debugging-it-undergraduates": {
+    "formats": {},
+    "execution_time_sec": 36.09
+  },
+  "forest-aboveground-biomass-estimation-using-high-resolution-imagery-and-integrated": {
+    "formats": {},
+    "execution_time_sec": 37.77
+  },
+  "hr-vsgeo-high-resolution-visible-sar-geo-referenced-dataset-and-open-evaluation-benchmark": {
+    "formats": {},
+    "execution_time_sec": 39.44
+  },
+  "supplementary-material-mutagenesis-screen-large-language-model": {
+    "formats": {},
+    "execution_time_sec": 41.1
+  },
+  "causality-informed-large-small-model-collaborative-framework-time-series-forecasting": {
+    "formats": {},
+    "execution_time_sec": 42.77
+  },
+  "wi-fi-based-human-activity-dataset-smart-glass": {
+    "formats": {},
+    "execution_time_sec": 44.4
+  },
+  "edmcr": {
+    "formats": {},
+    "execution_time_sec": 46.05
+  },
+  "dataset-depression-ptsd-and-academic-performance-among-university-students": {
+    "formats": {
+      "excell": {
+        "count": 1,
+        "sizes": []
+      },
+      "sheet": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 4.67
+  },
+  "bangla-handwritten-consonant-and-vowel-dataset-ocr": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "exr": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 7.42
+  },
+  "guiyang-traffic-flow-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 10.07
+  },
+  "darknight": {
+    "formats": {},
+    "execution_time_sec": 12.8
+  },
+  "pefomed-result": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 14.61
+  },
+  "data-13": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 16.35
+  },
+  "diurnal-pulse-aware-learning-cross-attention-and-masked-convolution-tropical-cyclone": {
+    "formats": {},
+    "execution_time_sec": 19.2
+  },
+  "fall-detection-imu-dataset-wearable-applications": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 21.84
+  },
+  "gamificationofcompetencedevelopmentv54100925": {
+    "formats": {
+      "sav": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 24.57
+  },
+  "grid-eye-dataset-human-occupancy-detection-and-counting-study-pod": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 26.51
+  },
+  "3dcrack": {
+    "formats": {},
+    "execution_time_sec": 29.01
+  },
+  "high-voltage-vertical-disconnect-switches-open-and-closed-position-status-dataset": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 31.58
+  },
+  "codechat": {
+    "formats": {
+      "pickle": {
+        "count": 1,
+        "sizes": []
+      },
+      "npz": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 4,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 34.21
+  },
+  "emotionally-incongruent-synthetic-speech-dataset-emis": {
+    "formats": {
+      "wav": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 36.84
+  },
+  "tennis-match-statistics": {
+    "formats": {},
+    "execution_time_sec": 39.64
+  },
+  "digital-dataset-animal-tissues-macroscopic-pathology-cancer-image-and-ultrasound-data": {
+    "formats": {},
+    "execution_time_sec": 42.48
+  },
+  "improving-biocompatibility-plant-derived-scaffolds-tissue-engineering-using-heat": {
+    "formats": {},
+    "execution_time_sec": 45.62
+  },
+  "aerial-imagery-changes-detection": {
+    "formats": {
+      "png": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 48.25
+  },
+  "low-altitude-cross-view-lacv-dataset": {
+    "formats": {},
+    "execution_time_sec": 50.83
+  },
+  "test-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 52.6
+  },
+  "pam-cdr": {
+    "formats": {},
+    "execution_time_sec": 55.79
+  },
+  "open-steady-state-visually-evoked-potentials-dataset-augmented-reality-based-brain": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 58.81
+  },
+  "affectart": {
+    "formats": {},
+    "execution_time_sec": 62.06
+  },
+  "data-novel-ccs-mpc-algorithm-spmsm-position-control-innovative-constraints-processing": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 65.85
+  },
+  "supporting-material-systematic-literature-review-vulnerability-detection-approaches-iot": {
+    "formats": {
+      "xslx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 5.72
+  },
+  "acupuncture-rehabilitation-stroke-data": {
+    "formats": {},
+    "execution_time_sec": 8.54
+  },
+  "3d-printed-cuvette-sensor-data-real-time-soil-nutrient-sensing": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 11.41
+  },
+  "study-landslide-disasters-remote-sensing-and-geographic-environmental-dataset": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "tif": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 13.96
+  },
+  "velocity-model-building-data": {
+    "formats": {},
+    "execution_time_sec": 16.85
+  },
+  "prepost-lab-self-assessment-induction-machine-module-2": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 19.91
+  },
+  "taolive-qoe-database": {
+    "formats": {},
+    "execution_time_sec": 21.88
+  },
+  "dataset-secondary-surveillance-radar-ssr-plots": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 24.55
+  },
+  "database2022": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 27.24
+  },
+  "subset-chartbank": {
+    "formats": {},
+    "execution_time_sec": 30.09
+  },
+  "dataset-you-are-where-you-go": {
+    "formats": {
+      "tif": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 32.73
+  },
+  "effect-lower-limb-rehabilitation-robot-training-synchronized-tdcs-motor-recovery": {
+    "formats": {
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      },
+      "bib": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 35.8
+  },
+  "data-scan-less-synthetic-aperture-digital-holography-based-dual-comb-interferometer": {
+    "formats": {},
+    "execution_time_sec": 38.9
+  },
+  "knowledgetracingdatasets": {
+    "formats": {},
+    "execution_time_sec": 41.55
+  },
+  "viseme-dataset-complete-dataset-will-be-uploaded-after-acceptance": {
+    "formats": {},
+    "execution_time_sec": 44.16
+  },
+  "data-intelligent-dumbbell-training-system": {
+    "formats": {},
+    "execution_time_sec": 46.84
+  },
+  "hybrid-explicit-implicit-dense-mapping-quality-guided-refinement-and-residual-feedback": {
+    "formats": {},
+    "execution_time_sec": 49.34
+  },
+  "iist-bci-dataset-14-male-and-female-eeg-dataset-odia-vowels-and-consonants": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 52.05
+  },
+  "livadatasets": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 53.87
+  },
+  "hourly-renewable-power-generation-and-meteorological-data-goias-brazil-2024": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 56.8
+  },
+  "measured-power-spectral-density-200mhz-received-signal-different-fan-speeds": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 59.74
+  },
+  "progressive-self-supervised-inversion-multiscale-strategies-resolving-multi-parameter": {
+    "formats": {},
+    "execution_time_sec": 62.69
+  },
+  "4g": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 65.59
+  },
+  "calibration-curve-output-voltage-vs-flow-rate": {
+    "formats": {},
+    "execution_time_sec": 68.11
+  },
+  "test-data-sets-multi-tti-transmission": {
+    "formats": {
+      "npy": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 3.43
+  },
+  "supplementary-data-real-time-heterogeneous-helical-wave-spectrum-method-trans-abdominal": {
+    "formats": {},
+    "execution_time_sec": 6.15
+  },
+  "fbg-sensor-data-12-typical-civil-pilot-gestures": {
+    "formats": {},
+    "execution_time_sec": 9.08
+  },
+  "towards-domain-balanced-semantic-decomposition-patent-document-re-ranking": {
+    "formats": {
+      "tsv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 11.82
+  },
+  "cameleval-benchmark": {
+    "formats": {
+      "pickle": {
+        "count": 1,
+        "sizes": []
+      },
+      "npz": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 4,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 14.52
+  },
+  "dataset-training-validation-and-testing-1d-ml-dft": {
+    "formats": {},
+    "execution_time_sec": 17.16
+  },
+  "ppi-network": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "h5": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 20.1
+  },
+  "simulation-dataset-spatial-electric-field-insulator-string": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 22.94
+  },
+  "pl-causesns3-50k": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 26.39
+  },
+  "stock-intraday-data-csi-snp-and-nifty": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 29.18
+  },
+  "spectre-attack-detection-cleaned-core-microarchitectural-counts-intel-rpi-background": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 31.83
+  },
+  "meta-physicalization-audience-ratings-all-projects": {
+    "formats": {
+      "cvs": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 34.48
+  },
+  "instrumental-power-seeking-index-novel-benchmark-detecting-power-seeking-behavior-llms": {
+    "formats": {
+      "pickle": {
+        "count": 1,
+        "sizes": []
+      },
+      "npz": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 4,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 37.21
+  },
+  "photonicfilterjltpablo2025dataset": {
+    "formats": {},
+    "execution_time_sec": 39.77
+  },
+  "chip-scale-optomechanical-oscillator": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 42.67
+  },
+  "time-series-data-load-generation-and-power-flow-ieee-bus-systems": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 44.54
+  },
+  "attention-augmented-autoencoder-robust-student-dropout-prediction-source-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 47.22
+  },
+  "bridging-nodes-and-community-structures-datasets": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 50.23
+  },
+  "elecdevqa": {
+    "formats": {
+      "json": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 52.79
+  },
+  "short-term-load-forecasting": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 55.43
+  },
+  "rotated-cplid": {
+    "formats": {},
+    "execution_time_sec": 58.09
+  },
+  "mrigs": {
+    "formats": {},
+    "execution_time_sec": 60.77
+  },
+  "thickness": {
+    "formats": {},
+    "execution_time_sec": 63.47
+  },
+  "battery-cell-internal-temperature-estimation-and-active-safety-warning-protection-dc-dc": {
+    "formats": {},
+    "execution_time_sec": 66.28
+  },
+  "time-series-synthetic-load-dataset-ieee-14-57-118-test-systems": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 4.19
+  },
+  "ai-business-process-automation-performance-dataset-task-completion-benchmarking-and-low": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 6.2
+  },
+  "3d-model-network-physicalization-social-criteria-urban-planning": {
+    "formats": {
+      "ply": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 8.97
+  },
+  "collection-foundational-image-classification-datasets-mnist-fashion-mnist-cifar-10-cifar": {
+    "formats": {},
+    "execution_time_sec": 11.61
+  },
+  "raw-virtual-reality-video-captures": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 14.74
+  },
+  "cste-dataset-cross-sessions-and-cross-tasks-eeg-biometrics": {
+    "formats": {},
+    "execution_time_sec": 17.58
+  },
+  "cognitive-load-estimation-simulated-eeg-using-band-power-features-and-svm-classification": {
+    "formats": {},
+    "execution_time_sec": 20.62
+  },
+  "spectrocognix-adaptive-real-time-eeg-classifier-dual-mode-simulation-and-live-streaming": {
+    "formats": {},
+    "execution_time_sec": 24.61
+  },
+  "spatiotemporal-domain-denoising-multi-motion-detection-based-asic-implementationdata": {
+    "formats": {},
+    "execution_time_sec": 27.68
+  },
+  "real-time-cognitive-load-estimation-wearable-eeg-interactive-simulation-and": {
+    "formats": {},
+    "execution_time_sec": 30.23
+  },
+  "raw-data-files-research-projects-heat-sink-performance-electrodeposited-copper-diamond": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 33.09
+  },
+  "ionizing-radiation-alerts-unmodified-mobile-phones": {
+    "formats": {
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      },
+      "bag": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 35.83
+  },
+  "synthetic-alpha-beta-brainwave-framework-bci-signal-classification": {
+    "formats": {},
+    "execution_time_sec": 37.68
+  },
+  "relative-data-paperrobust-bone-air-conduction-speech-fusion-parallel-narrowband": {
+    "formats": {},
+    "execution_time_sec": 40.76
+  },
+  "sealing-surface-nuclear-power-valve": {
+    "formats": {},
+    "execution_time_sec": 43.51
+  },
+  "8ch-semg6dforce500hz": {
+    "formats": {
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 46.64
+  },
+  "sources-localization-information-back-propagation-mechanism": {
+    "formats": {},
+    "execution_time_sec": 48.55
+  },
+  "review-and-content-analysis-mobile-applications-heart-rate-variability": {
+    "formats": {},
+    "execution_time_sec": 52.09
+  },
+  "dataset-cross-layer-chance-constrained-optimization-uncertain-dynamic-systems": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 54.99
+  },
+  "mobile-textual-datasets-valuation-and-pricing": {
+    "formats": {
+      "txt": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "dat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 57.63
+  },
+  "lifestyle-and-dietary-habits-dataset-type-2-diabetes-risk-prediction": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 60.39
+  },
+  "visdrone-uav-object-detection-dataset": {
+    "formats": {},
+    "execution_time_sec": 63.64
+  },
+  "digital-distortions-auditing-bias-llm-based-career-recommendations": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 66.43
+  },
+  "retraction-watch-database-global-resource-monitoring-research-integrity-and-retractions": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 69.36
+  },
+  "data-after-collection-prior-pre-processing-r-code": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 4.37
+  },
+  "uwb-radar-health-monitoring-multi-frequency-method-vital-sign-signal-reconstruction": {
+    "formats": {},
+    "execution_time_sec": 7.02
+  },
+  "ae-sam-test-datasets": {
+    "formats": {},
+    "execution_time_sec": 9.9
+  },
+  "pga-stereo-robust-stereo-matching-fusing-monocular-semantic-priors-mixture-experts": {
+    "formats": {},
+    "execution_time_sec": 12.62
+  },
+  "dataset-sedem": {
+    "formats": {},
+    "execution_time_sec": 15.31
+  },
+  "papaya-leaves": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 18.31
+  },
+  "mmhsense-multi-modal-and-distributed-mmwave-isac-datasets-human-sensing": {
+    "formats": {
+      "pth": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 20.45
+  },
+  "camvid11categories": {
+    "formats": {
+      "rar": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 23.06
+  },
+  "design-generalized-delay-timers-iid-process-variables-based-alarm-trigger-and-clearance": {
+    "formats": {},
+    "execution_time_sec": 25.76
+  },
+  "tcga": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 28.57
+  },
+  "forecast-and-measured-pv-data-accompanying-determine-pv-battery-dynamic-firm-capacity": {
+    "formats": {
+      "xls": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 31.27
+  },
+  "mobility-aware-mec-metro-offloading-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 34.23
+  },
+  "global-research-data-accessibility-licensing-practices": {
+    "formats": {},
+    "execution_time_sec": 36.95
+  },
+  "chemical-reactions-reaction-type-and-classification-labels": {
+    "formats": {
+      "spreadsheets": {
+        "count": 1,
+        "sizes": []
+      },
+      "excel": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 39.65
+  },
+  "ai-or-ally-understanding-student-reliance-github-copilot-and-human-peers-through-eye": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 42.26
+  },
+  "super-heroes-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 45.2
+  },
+  "dataset-prompting-techniques-evaluation-llm-agents-prompts-scores-and-code-across-five": {
+    "formats": {},
+    "execution_time_sec": 47.89
+  },
+  "demo-audio-samples-visual-informed-neural-beamforming-network-vi-nbfnet": {
+    "formats": {},
+    "execution_time_sec": 50.51
+  },
+  "ccta-dataset": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 53.24
+  },
+  "knowledge-source-characteristics": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 55.15
+  },
+  "reference-alignments-biomedical-complex-multi-ontology-matching-tasks-hp-mp-wbp": {
+    "formats": {
+      "owl": {
+        "count": 1,
+        "sizes": []
+      },
+      "rdf": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 57.78
+  },
+  "terms-service-singing-voice-synthesis-applications": {
+    "formats": {
+      "doc": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      },
+      "pdf": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      },
+      "ipynb": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 60.45
+  },
+  "road-collision-indian-road-intersection": {
+    "formats": {
+      "image": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 63.02
+  },
+  "experimental-analysis-carbonated-agro-waste-bio-bricks-mix-proportions-and": {
+    "formats": {
+      "data": {
+        "count": 1,
+        "sizes": []
+      },
+      "excel": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 64.89
+  },
+  "novel-dual-feedback-collaborative-flux-weakening-control-multiphase-non-sinusoidal": {
+    "formats": {
+      "mp4": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 5.09
+  },
+  "mnist-fashion-mnist-and-cifar-10-first-order-stochastic-gradient-methods-nonconvex": {
+    "formats": {},
+    "execution_time_sec": 6.86
+  },
+  "smart-wristband-monitoringpatienthealthdatammse": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 9.66
+  },
+  "recursive-repetitive-truncated-qaoa-mvsic-mmimo-detection-matrix-product-state-simulation": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 12.69
+  },
+  "dataset-relative-single-channel-wearable-eeg-using-low-power-qvar-sensor-and-machine": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 15.44
+  },
+  "multi-disorder-annotations-lumbar-spine-mid-sagittal-images": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "exr": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 17.22
+  },
+  "adaptcdr": {
+    "formats": {},
+    "execution_time_sec": 19.68
+  },
+  "western-reserve-university-bearing-data": {
+    "formats": {},
+    "execution_time_sec": 22.39
+  },
+  "flair-room-impulse-response-dataset-laser-calibrated-room-geometry": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 24.94
+  },
+  "matlab-simulation-data-cr-iot-research": {
+    "formats": {
+      "opju": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 27.66
+  },
+  "cseu-2025": {
+    "formats": {},
+    "execution_time_sec": 30.21
+  },
+  "rail": {
+    "formats": {},
+    "execution_time_sec": 33.26
+  },
+  "dataset-characterization-electrical-power-instabilities-high-intensity-pulsed-therapeutic": {
+    "formats": {
+      "py": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 35.94
+  },
+  "offsimdataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 38.38
+  },
+  "msccdataset": {
+    "formats": {},
+    "execution_time_sec": 41.08
+  },
+  "faca-fine-grained-attributes-cultural-architecture": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 42.86
+  },
+  "hourly-candle-stick-data": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 45.57
+  },
+  "tcm-facial-diagnosis-tcm-fd-dataset": {
+    "formats": {
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "xml": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 48.53
+  },
+  "position-open-world-3d-scene-cad-recomposition": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 51.35
+  },
+  "ti-mmwave-down-scaled-ship-dataset-0": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 54.31
+  },
+  "structured-curriculum-vitae-dataset-cv-generation-and-parsing": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 56.11
+  },
+  "chengdu-taxi-data-and-beijingpois": {
+    "formats": {},
+    "execution_time_sec": 59.63
+  },
+  "comprehensive-serp-data": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 62.41
+  },
+  "gazevlm-dataset": {
+    "formats": {
+      "pickle": {
+        "count": 1,
+        "sizes": []
+      },
+      "npz": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 4,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 65.17
+  },
+  "control-logs-closed-loop-control-trials": {
+    "formats": {
+      "yaml": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 3.53
+  },
+  "dataset-systematic-review-usability-evaluation-virtual-reality": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 6.13
+  },
+  "data-and-code-adaptive-orbital-consensus-aoc-framework-simulation": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 7.92
+  },
+  "peach-dataset": {
+    "formats": {},
+    "execution_time_sec": 10.46
+  },
+  "business-insider-dataset-financial-phrasebank": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 13.32
+  },
+  "mvrs-multimodal-emotion-recognition-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 15.98
+  },
+  "rewardcraftsupportingdata": {
+    "formats": {
+      "json": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 18.49
+  },
+  "handwritten-cyclic-compounds-dataset": {
+    "formats": {
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "in": {
+        "count": 1,
+        "sizes": []
+      },
+      "file": {
+        "count": 1,
+        "sizes": []
+      },
+      "image": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 21.01
+  },
+  "experimental-dataset-design-and-performance-parameters-fdm-3d-printed-parts-using-line": {
+    "formats": {
+      "data": {
+        "count": 1,
+        "sizes": []
+      },
+      "excel": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 23.68
+  },
+  "time-synchronization-method-connected-vehicles-based-kalman-filter-time-offset-parameter": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 26.38
+  },
+  "dronedetect-benchmark-uav-dataset-deep-learning-based-drone-detection": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 28.91
+  },
+  "arabic-sign-language-dataset-using-relative-coordinate": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 31.65
+  },
+  "collection-measurement-data-adaptive-quantum-state-tomography-qiskit-simulations": {
+    "formats": {
+      "pkl": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 34.21
+  },
+  "machine-learning-analysis-pressure-and-temperature-sensor-placement-optimization-diabetic": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "folder": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 36.94
+  },
+  "feature-level-analysis-emg-spectrograms-hand-gesture-classification": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 38.83
+  },
+  "aws-testbed-activity-simulation-including-attacks-and-labels": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 41.48
+  },
+  "data-paper-2": {
+    "formats": {},
+    "execution_time_sec": 44.24
+  },
+  "bangla-ai-generated-and-human-written-text-dataset": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 46.75
+  },
+  "miniaturized-hyper-redundant-manipulator-using-multi-cable-minimally-invasive-surgery": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 49.77
+  },
+  "air-quality-and-gas-sensors-drift-datasets-time-series-generation": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 52.91
+  },
+  "replication-data-graphtransgeo-reliable-geolocation-method-integrating-adversarial": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 55.67
+  },
+  "agricultural-waste-precast-concrete-walls-structural-characterization-and-thermal": {
+    "formats": {
+      "data": {
+        "count": 1,
+        "sizes": []
+      },
+      "excel": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 58.71
+  },
+  "magnetostatic-and-thermal-analysis-classical-and-hybrid-axial-active-magnetic-bearings": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 61.25
+  },
+  "scoping-review-data-gamifications-role-supporting-learner-autonomy-review": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 6.13
+  },
+  "dwrm-netpressure-drop-and-mass-transfer-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 8.69
+  },
+  "dataset-spe-sk-efficient-and-accurate-searchable-public-key-encryption-scheme-spatial": {
+    "formats": {
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 11.92
+  },
+  "sihd-smart-industrial-honeypot-dataset": {
+    "formats": {},
+    "execution_time_sec": 13.6
+  },
+  "smartmeter-daily-profiles-activepower-and-metrics-march-2023": {
+    "formats": {
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "pdf": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 15.54
+  },
+  "businessinfopro": {
+    "formats": {},
+    "execution_time_sec": 17.21
+  },
+  "smart-disaster-detection-and-alerting-system-using-iot-based-edge-sensing": {
+    "formats": {},
+    "execution_time_sec": 18.83
+  },
+  "ciciot2023-dataset": {
+    "formats": {},
+    "execution_time_sec": 20.61
+  },
+  "electrically-stimulated-hipsc-derived-astrocytes-calcium-imaging-videos-raw-and-analysed": {
+    "formats": {},
+    "execution_time_sec": 22.27
+  },
+  "ncm-battery-aging-electrochemical-impedance-spectroscopy-data-60-cycle": {
+    "formats": {},
+    "execution_time_sec": 23.91
+  },
+  "experimental-data-and-images-cpc-gain-experimental-setup": {
+    "formats": {},
+    "execution_time_sec": 25.6
+  },
+  "depth-completion": {
+    "formats": {},
+    "execution_time_sec": 27.23
+  },
+  "sindhi-wordnet-dataset": {
+    "formats": {},
+    "execution_time_sec": 28.87
+  },
+  "image-data-1": {
+    "formats": {},
+    "execution_time_sec": 30.51
+  },
+  "emg-and-motion-capture-9-target-upper-limb-reaching-22-healthy-adults-10-emg-muscles-9": {
+    "formats": {},
+    "execution_time_sec": 32.16
+  },
+  "vlm-biada": {
+    "formats": {},
+    "execution_time_sec": 33.83
+  },
+  "datasets-total-cumulative-cases-world-mpox": {
+    "formats": {},
+    "execution_time_sec": 35.53
+  },
+  "datasets-mexicos-covid-19-cases": {
+    "formats": {},
+    "execution_time_sec": 37.16
+  },
+  "6g-oam-thz-channel-dataset-itu-r-imt-2030-compliant-physics-simulation-33-parameters-deep": {
+    "formats": {},
+    "execution_time_sec": 38.78
+  },
+  "electromyography-emg-spectrograms-database-hand-gesture-classification": {
+    "formats": {},
+    "execution_time_sec": 40.41
+  },
+  "biometric-spoofing-fingerprint-dataset": {
+    "formats": {},
+    "execution_time_sec": 42.03
+  },
+  "shallot-dataset": {
+    "formats": {},
+    "execution_time_sec": 43.66
+  },
+  "roadsense-mapping-road-surface-using-crowdsource-data": {
+    "formats": {},
+    "execution_time_sec": 45.32
+  },
+  "dataset-hdf-net-hybrid-deep-learning-model-retrieving-ozone-profiles-arctic": {
+    "formats": {},
+    "execution_time_sec": 46.95
+  },
+  "pid-control-hydraulic-robotic-arm-based-reinforcement-learning": {
+    "formats": {},
+    "execution_time_sec": 5.97
+  },
+  "medium-voltage-feeders-datasets": {
+    "formats": {},
+    "execution_time_sec": 8.2
+  },
+  "wudataset-pedestrian-position-nine-axis-imu-data-and-device-orientation": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 10.84
+  },
+  "dataset-user-perceptions-robot-vacuum-cleaners-emerging-market-insights-survey-and": {
+    "formats": {
+      "png": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 13.54
+  },
+  "european-football-player-performance-dataset-2021-22-season": {
+    "formats": {},
+    "execution_time_sec": 17.02
+  },
+  "clinical-oriented-upper-limb-sequential-semg-dataset-ulse": {
+    "formats": {},
+    "execution_time_sec": 20.28
+  },
+  "visual-motion-vehicle-interactions-autonomous-driving": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "exr": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 22.94
+  },
+  "eco-network-traffic-controldatayang": {
+    "formats": {},
+    "execution_time_sec": 25.63
+  },
+  "experimental-synthesized-audio-samples-sgeaf": {
+    "formats": {},
+    "execution_time_sec": 28.14
+  },
+  "image-speaks-itself-self-supervised-segmentation-ultrasound-tumor": {
+    "formats": {},
+    "execution_time_sec": 29.88
+  },
+  "software-architecture-catalog-fault-tolerant-containerized-systems": {
+    "formats": {
+      "xslx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 32.67
+  },
+  "rgfreq-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 35.43
+  },
+  "solder-joint-dataset": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 37.94
+  },
+  "ossscope-dataset": {
+    "formats": {},
+    "execution_time_sec": 40.52
+  },
+  "ssupl": {
+    "formats": {},
+    "execution_time_sec": 43.07
+  },
+  "random-fiber-laser-1": {
+    "formats": {},
+    "execution_time_sec": 46.16
+  },
+  "custom-generated-optical-dataset-3-bit-full-adder": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 48.74
+  },
+  "cross-device-e-nose-gas-recognition": {
+    "formats": {},
+    "execution_time_sec": 51.61
+  },
+  "active-touch-based-behavioral-data": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 53.37
+  },
+  "risk-reducing-design-and-operations-toolkit": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 56.04
+  },
+  "brain-mri-dataset-glioma-meningioma-and-pituitary-tumor-classification": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 58.62
+  },
+  "lake-michigan-surface-data-associated-datta-barua-et-allake-ice-surface-type-correlation": {
+    "formats": {},
+    "execution_time_sec": 61.18
+  },
+  "intelligent-non-invasive-breath-acetone-monitoring-system-using-esp32-mq-138-sensor-and": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 62.99
+  },
+  "datasetscientificresearchpaperelhadjimbayendiaye": {
+    "formats": {
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      },
+      "bib": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 65.77
+  },
+  "data-frequency-real-time-estimation-method": {
+    "formats": {},
+    "execution_time_sec": 3.29
+  },
+  "gobug-defect-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "json": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 5.83
+  },
+  "extended-order-generalized-integral-control-based-circulating-current-mitigating-scheme": {
+    "formats": {
+      "m": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 8.88
+  },
+  "indeepfake-novel-multimodal-multilingual-indian-deepfake-video-dataset": {
+    "formats": {
+      "mp4": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 10.65
+  },
+  "smart-iot-driven-precision-agriculture": {
+    "formats": {},
+    "execution_time_sec": 14.21
+  },
+  "pycharm-program-and-dataset": {
+    "formats": {},
+    "execution_time_sec": 15.96
+  },
+  "fme-gcn-dataset": {
+    "formats": {},
+    "execution_time_sec": 18.92
+  },
+  "tea-bud": {
+    "formats": {},
+    "execution_time_sec": 21.76
+  },
+  "dataset-entrepreneurial-learning-routines-goal-reconciliation-and-venture-performance": {
+    "formats": {
+      "xls": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 24.5
+  },
+  "generative-ai-and-circular-economy-practices-manufacturing-supply-chains-survey-dataset": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 27.12
+  },
+  "handwriting-elder-futhark-alphabet-recognition": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "exr": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 29.83
+  },
+  "grinda-graph-based-intelligence-network-disruption-and-analysis": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 32.46
+  },
+  "integration-data-driven-u-net-and-levenberg-marquardt-algorithm-amplitude-variation": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 35.18
+  },
+  "datasets-0": {
+    "formats": {},
+    "execution_time_sec": 37.87
+  },
+  "hetfco-mae": {
+    "formats": {},
+    "execution_time_sec": 40.53
+  },
+  "engineering-iot": {
+    "formats": {},
+    "execution_time_sec": 43.15
+  },
+  "dataset-enhancing-pandemic-predictions-hybrid-methodology-using-compartmental-models-and": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 45.74
+  },
+  "catpc-lstm-mlp": {
+    "formats": {
+      "raw": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 48.74
+  },
+  "design-and-development-dataset-indian-rose-plant-leaves-scientific-and-agricultural": {
+    "formats": {
+      "jpeg": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 52.0
+  },
+  "medicaldatasets": {
+    "formats": {},
+    "execution_time_sec": 55.0
+  },
+  "soc-prediction-lithium-ion-batteries-and-semi-solid-batteries": {
+    "formats": {},
+    "execution_time_sec": 58.51
+  },
+  "biofeedback-pecs-therapies": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 60.99
+  },
+  "interview-dataset-mcdonaldization-artificial-intelligence-systems": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 63.76
+  },
+  "zhang-aihuaieee-dataset": {
+    "formats": {},
+    "execution_time_sec": 66.4
+  },
+  "aesthetics-attack-adversarial-examples-dataset": {
+    "formats": {},
+    "execution_time_sec": 3.41
+  },
+  "quantum-attack-datasets": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 6.05
+  },
+  "data-whole-body-robotic-skin": {
+    "formats": {},
+    "execution_time_sec": 9.07
+  },
+  "research-broadening-frequency-band-and-improving-sensitivity-lower-cross-talk-f-p-cavity": {
+    "formats": {},
+    "execution_time_sec": 11.69
+  },
+  "database-sunshine-duration-modeling": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 14.33
+  },
+  "dronetfs-semnet-semantic-learning-framework-multi-task-recognition-unmanned-aerial": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "h5": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 16.11
+  },
+  "lingu10-grocery-fashionretail-consumertech-lowresource": {
+    "formats": {
+      "zip": {
+        "count": 2,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 18.8
+  },
+  "graph-senet-dataset": {
+    "formats": {
+      "ply": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 21.37
+  },
+  "trainingset-and-testset-lfmqfmtfm": {
+    "formats": {},
+    "execution_time_sec": 23.94
+  },
+  "network-side-carbon-emission-reduction-dispatching-power-electronic-devices-ac-dc-hybrid": {
+    "formats": {},
+    "execution_time_sec": 26.62
+  },
+  "ris-aided-channel-estimation-multi-user-mimo-mmwave-systems-under-hybrid-architecture": {
+    "formats": {},
+    "execution_time_sec": 28.39
+  },
+  "canmap-voltage-dataset-mapping-can-bus": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 31.19
+  },
+  "car-design-review-dataset": {
+    "formats": {},
+    "execution_time_sec": 32.97
+  },
+  "dataset-evaluating-learning-strategies-engineering-education-through-qol-lens-leadership": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 35.61
+  },
+  "hexagonal-waveguide-polarizer-compact-dual-circularly-polarized-antenna": {
+    "formats": {},
+    "execution_time_sec": 37.4
+  },
+  "uic-gii-ml-smote": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 39.99
+  },
+  "object-detection-network-architecture-and-its-interpretability-study-visually-degraded": {
+    "formats": {},
+    "execution_time_sec": 42.94
+  },
+  "end-end-deep-learning-model-clustering-based-statistical-arbitragebinance-futures67": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 45.38
+  },
+  "impedance-spectral-data-0": {
+    "formats": {},
+    "execution_time_sec": 47.94
+  },
+  "oikonomos-ii-oracle-datasets": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 50.6
+  },
+  "e-commerce-product-reviews-dataset-hybrid-data-quality-validation": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 53.23
+  },
+  "additional-data-paper-higher-order-recursive-linearization-power-systems-electronic": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 55.75
+  },
+  "snort-log": {
+    "formats": {},
+    "execution_time_sec": 58.27
+  },
+  "quantum-circuit-reliability-ibm-sherbrooke-processor": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 61.24
+  },
+  "eeg-aldm-adaptive-latent-constrained-diffusion-model-eeg-emotion-recognition-data": {
+    "formats": {},
+    "execution_time_sec": 4.63
+  },
+  "efficient-and-robust-spatial-fiber-coupling-multimode-quantum-networks-cascaded-adaptive": {
+    "formats": {},
+    "execution_time_sec": 7.37
+  },
+  "hazytestdataset": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 9.91
+  },
+  "realistic-human-head-phantoms-suitable-ai-applications-dataset-and-user-friendly": {
+    "formats": {
+      "stl": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 12.4
+  },
+  "bandwidthestimation2025": {
+    "formats": {},
+    "execution_time_sec": 14.17
+  },
+  "glad-i-found-my-trip-got-complicated": {
+    "formats": {},
+    "execution_time_sec": 16.66
+  },
+  "supporting-material": {
+    "formats": {},
+    "execution_time_sec": 19.16
+  },
+  "dataset-building-instances-typical-cities-china": {
+    "formats": {},
+    "execution_time_sec": 20.93
+  },
+  "performance-analysis-isac-systems": {
+    "formats": {},
+    "execution_time_sec": 23.39
+  },
+  "rainfall-induced-clustered-landslide-dataset": {
+    "formats": {},
+    "execution_time_sec": 26.21
+  },
+  "data-derivation-and-application-physics-based-equivalent-circuit-model-uni-traveling": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 29.04
+  },
+  "scimd-6-source-camera-identification-mobile-devices-dataset": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 31.82
+  },
+  "extracted-features-and-preprocessed-remote-sensing-and-situ-data-long-term-streamflow": {
+    "formats": {},
+    "execution_time_sec": 33.66
+  },
+  "quasi-experiment-strengthen-computational-thinking": {
+    "formats": {
+      "sav": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 36.27
+  },
+  "diagnosis-self-depletion-basketball-referees-based-event-related-potentials-and-machine": {
+    "formats": {
+      "dat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 38.85
+  },
+  "momo-low-cost-non-contact-system-monitoring-patient-movement-support-surface": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 41.34
+  },
+  "speech-phoneme-enriched-audio-dataset-spead": {
+    "formats": {},
+    "execution_time_sec": 43.99
+  },
+  "dds-vs-mqtt-bandwidth-and-packet-rate-performance-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 46.67
+  },
+  "alzheimer-disease-classification-data": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "exr": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 49.22
+  },
+  "low-light-datasets-zero-shot-learning-image-enhancement": {
+    "formats": {
+      "zip": {
+        "count": 2,
+        "sizes": []
+      },
+      "bmp": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 51.73
+  },
+  "optimization-high-density-gnss-network-topology-small-scale-tropospheric-delay-retrieval": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 54.22
+  },
+  "iitbbs-cross-spectral-periocular-dataset": {
+    "formats": {},
+    "execution_time_sec": 57.05
+  },
+  "pem-43-itc-dataset": {
+    "formats": {
+      "rar": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 60.24
+  },
+  "endo-ttapc5-five-challenge-datasets-tracking-any-tissue-points-under-endoscope": {
+    "formats": {},
+    "execution_time_sec": 62.9
+  },
+  "phm2010-dataset": {
+    "formats": {},
+    "execution_time_sec": 4.9
+  },
+  "nanjing-city-october-2019-online-ride-hailing-trajectory-dataset": {
+    "formats": {},
+    "execution_time_sec": 7.55
+  },
+  "augmented-reality-study-enhancing-spatial-temporal-cognition-indoor-emergency": {
+    "formats": {},
+    "execution_time_sec": 10.2
+  },
+  "pvls-learning-based-parameter-prediction-technique-variational-quantum-linear-solvers": {
+    "formats": {},
+    "execution_time_sec": 12.76
+  },
+  "llmmedical-consultaton": {
+    "formats": {
+      "data": {
+        "count": 1,
+        "sizes": []
+      },
+      "excel": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 15.31
+  },
+  "colored-mnist": {
+    "formats": {},
+    "execution_time_sec": 18.08
+  },
+  "electrodes-conductive-textile-materials-various-sizes-and-positions": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 20.72
+  },
+  "docker-container-escape-attack-dataset-capabilities-and-system-call-traces": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 23.53
+  },
+  "one-dimensional-slide-induced-vibrotactile-signal-based-pvdf-tactile-sensor": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 26.21
+  },
+  "acoustic-signals-carbon-fibre": {
+    "formats": {},
+    "execution_time_sec": 28.97
+  },
+  "data-and-code-manuscript-cognitive-resilience-microgravity-synergy-mental-rotation-0": {
+    "formats": {},
+    "execution_time_sec": 31.65
+  },
+  "preliminary-fuzzing-dataset-iot-application-layer-security-evaluation-using-modsecurity": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 34.45
+  },
+  "mfall": {
+    "formats": {},
+    "execution_time_sec": 37.09
+  },
+  "semg-signals-9-lower-limb-movements": {
+    "formats": {},
+    "execution_time_sec": 39.91
+  },
+  "dynamic-mri-similar-articulation-arabic": {
+    "formats": {
+      "dicom": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 42.52
+  },
+  "bkt-bts-location": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 45.06
+  },
+  "floating-offshore-wind-platform-segmentation-satellite-imagery-and-masks": {
+    "formats": {
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 47.59
+  },
+  "bmteeg-novel-eeg-dataset-evaluating-effects-new-protocols-biometric-authentication": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 50.39
+  },
+  "occluder-generation": {
+    "formats": {
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 52.9
+  },
+  "leaf-shape-dataset": {
+    "formats": {
+      "zip": {
+        "count": 2,
+        "sizes": []
+      },
+      "bmp": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 55.51
+  },
+  "enhancing-audio-reproduction-llm-based-equalizers": {
+    "formats": {
+      "pkl": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 58.28
+  },
+  "data-and-code-manuscript-cognitive-resilience-microgravity-synergy-mental-rotation": {
+    "formats": {},
+    "execution_time_sec": 61.25
+  },
+  "joint-movement-data-upper-limb-motion-capture-and-replication": {
+    "formats": {
+      "zip": {
+        "count": 2,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 63.83
+  },
+  "hellm-multi-modal-hypergraph-enhanced-llm-learning-recommendation": {
+    "formats": {},
+    "execution_time_sec": 5.54
+  },
+  "authentica": {
+    "formats": {
+      "mp4": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 8.09
+  },
+  "nhts-2022-trips": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 10.67
+  },
+  "rs-sr19": {
+    "formats": {},
+    "execution_time_sec": 13.36
+  },
+  "evaluation-information-appendix-1": {
+    "formats": {
+      "data": {
+        "count": 1,
+        "sizes": []
+      },
+      "excel": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 16.31
+  },
+  "point-new-choice-weakly-supervised-learning-ultrasound-segmentation": {
+    "formats": {},
+    "execution_time_sec": 19.0
+  },
+  "mad-multimodal-affective-dataset": {
+    "formats": {},
+    "execution_time_sec": 21.73
+  },
+  "experimental-results-reinforced-concrete-beams-various-longitudinal-web-opening": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 24.25
+  },
+  "annual-data-2019-2023-152-st-special-treatment-and-152-non-st-companies-listed-chinas": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 26.95
+  },
+  "simulation-data-virtual-hub-core-and-its-impact-cross-border-ppas": {
+    "formats": {},
+    "execution_time_sec": 29.8
+  },
+  "bankruptcy-prediction-polish-companies": {
+    "formats": {},
+    "execution_time_sec": 31.68
+  },
+  "isl-fingerspelling-image-dataset": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "exr": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 34.65
+  },
+  "meteor-data-set-205-mhz-st-radar": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "exr": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 37.39
+  },
+  "tacm-mr-topographically-augmented-channel-model-multi-receiver-dataset": {
+    "formats": {
+      "hdf5": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 39.24
+  },
+  "spaciotemporal-gait-parameters-older-adults-swalker": {
+    "formats": {},
+    "execution_time_sec": 41.89
+  },
+  "fuzzy-completion-and-multimodal-reasoning-3d-human-pose-estimation-large-language-models": {
+    "formats": {
+      "npz": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 44.68
+  },
+  "clinical-data-about-robot-assisted-ankle-rehabilitation-imitation-learning-empirical-and": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 46.43
+  },
+  "maximizing-control-range-matrix-converters-complex-synthesis-pwm": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 49.78
+  },
+  "design-and-validation-distributed-collaborative-teaching-mode-research-interdisciplinary": {
+    "formats": {},
+    "execution_time_sec": 52.53
+  },
+  "prioritizing-app-user-reviews-based-multi-dimensional-factors": {
+    "formats": {
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 55.81
+  },
+  "data-output-feedback-control": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 58.44
+  },
+  "synthetic-ham10000-extension-dataset-skin-tone-balance": {
+    "formats": {
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "pdf": {
+        "count": 1,
+        "sizes": []
+      },
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 60.39
+  },
+  "annotated-road-surface-anomalies-dataset-real-time-detection-using-yolov8": {
+    "formats": {},
+    "execution_time_sec": 63.03
+  },
+  "processed-magnet-dataset-magnetic-core-loss-modeling": {
+    "formats": {
+      "npy": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 64.95
+  },
+  "original-data-fmut-probe-detecting-minor-defects-pipeline-welds": {
+    "formats": {},
+    "execution_time_sec": 5.12
+  },
+  "molecular-dynamics-dataset-stability-analysis-ibuprofen-and-acetaminophen-under-earth": {
+    "formats": {},
+    "execution_time_sec": 7.97
+  },
+  "compression-and-context-aware-benchmark-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 10.83
+  },
+  "classification-22-generalized-bicycle-gb-codes": {
+    "formats": {},
+    "execution_time_sec": 13.42
+  },
+  "ppcf-palmprint-fingerprint-contactless-fusion-dataset": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 16.45
+  },
+  "amazon-clothing-amazon-sports-and-amazon-baby": {
+    "formats": {},
+    "execution_time_sec": 18.95
+  },
+  "mouse-dynamicstoimage": {
+    "formats": {
+      "jpg": {
+        "count": 1,
+        "sizes": []
+      },
+      "png": {
+        "count": 1,
+        "sizes": []
+      },
+      "mat": {
+        "count": 1,
+        "sizes": []
+      },
+      "exr": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 21.74
+  },
+  "mobile-voice-cloning-dataset": {
+    "formats": {
+      "7z": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 24.5
+  },
+  "bagfilterdataset": {
+    "formats": {},
+    "execution_time_sec": 27.37
+  },
+  "erp-data-longitudinal-working-memory-task-children-and-without-dyslexia": {
+    "formats": {
+      "files": {
+        "count": 1,
+        "sizes": []
+      },
+      "edf": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 31.27
+  },
+  "performance-dataset-heuristics-across-diverse-map-types": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 34.69
+  },
+  "dr-narendra-kumar": {
+    "formats": {},
+    "execution_time_sec": 37.55
+  },
+  "memory-efficient-ntt-accelerator-highly-parallel-memory-mapping-scheme": {
+    "formats": {},
+    "execution_time_sec": 39.45
+  },
+  "dataset-physical-layer-features-inter-satellite-communication-leo-non-terrestrial": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 42.14
+  },
+  "paper-id-25-0638-experiment-datasets": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 45.26
+  },
+  "raw-dual-frequency-gnss-observation-data-collected-low-cost-antenna-system": {
+    "formats": {
+      "obsformat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 47.92
+  },
+  "high-quality-large-scale-color-fundus-photography-images-dataset-eleven-types-annotations": {
+    "formats": {},
+    "execution_time_sec": 49.72
+  },
+  "white-sugar-data-hybridcae": {
+    "formats": {
+      "zip": {
+        "count": 2,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 52.53
+  },
+  "early-warning-epileptic-seizure-onset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 55.15
+  },
+  "proteinlocalizationdataset": {
+    "formats": {},
+    "execution_time_sec": 57.96
+  },
+  "missingness-knowledge-sipp-2018-2023": {
+    "formats": {},
+    "execution_time_sec": 60.45
+  },
+  "iplandmarks": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 63.27
+  },
+  "egfet-histones-iv-sweeps": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 65.76
+  },
+  "csi-data": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 68.97
+  },
+  "online-multi-task-business-process-prediction-using-dynamic-representation": {
+    "formats": {},
+    "execution_time_sec": 5.08
+  },
+  "ai-integrated-e-commerce-architecture": {
+    "formats": {},
+    "execution_time_sec": 6.86
+  },
+  "survey-dataset-287-cybersecurity-papers-selected-top-tier-conferences": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 9.45
+  },
+  "few-shot-classification-and-few-shot-fine-grained-classification-datasets": {
+    "formats": {
+      "pkl": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 12.55
+  },
+  "pimnet-lithium-ion-battery-health-modeling-dataset": {
+    "formats": {},
+    "execution_time_sec": 15.1
+  },
+  "emotional-and-behavioral-asymmetries-user-responses-virtual-vs-human-influencers": {
+    "formats": {},
+    "execution_time_sec": 18.31
+  },
+  "dataset-study-adjacency-effects-nearshore-waters": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "xlsx": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 20.95
+  },
+  "libat-temp-can-augmented-oem-battery-temperature-can-dataset": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 23.75
+  },
+  "dagchain-quantum-resilient-6g-edge-computing-air-quality-dataset-2025": {
+    "formats": {
+      "zip": {
+        "count": 1,
+        "sizes": []
+      },
+      "csv": {
+        "count": 1,
+        "sizes": []
+      },
+      "avi": {
+        "count": 1,
+        "sizes": []
+      },
+      "txt": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 25.71
+  },
+  "farmland-shelterbelts-northeast-china-and-four-other-types-land-cover-sample-points": {
+    "formats": {
+      "shp": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 28.6
+  },
+  "radar-continues-chinese-sign-language-108": {
+    "formats": {},
+    "execution_time_sec": 31.7
+  },
+  "novel-multi-scale-thermal-contact-resistance-model-igcts": {
+    "formats": {},
+    "execution_time_sec": 33.35
+  },
+  "data-manuscript-incentive-based-integrated-demand-response-model-considering-value-action": {
+    "formats": {},
+    "execution_time_sec": 35.02
+  },
+  "fedgencdss-dataset-federated-generative-ai-clinical-decision-support": {
+    "formats": {
+      "csv": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 37.16
+  },
+  "low-loss-terahertz-negative-curvature-suspended-core-fiber": {
+    "formats": {},
+    "execution_time_sec": 38.81
+  },
+  "syntheticdatasetof30daysofevchargingsessionsataworkplace": {
+    "formats": {},
+    "execution_time_sec": 40.5
+  },
+  "guarding-against-malicious-biased-threats-gambit-experiment-3": {
+    "formats": {},
+    "execution_time_sec": 42.13
+  },
+  "solar-cell-image-segmentation-dataset": {
+    "formats": {},
+    "execution_time_sec": 43.76
+  },
+  "water-quality-spatial-modeling-dataset": {
+    "formats": {},
+    "execution_time_sec": 45.42
+  },
+  "physical-design-database-pdb": {
+    "formats": {},
+    "execution_time_sec": 47.11
+  },
+  "privacy-preserving-facial-emotion-classification-dataset-using-visual-micro-doppler": {
+    "formats": {
+      "mat": {
+        "count": 1,
+        "sizes": []
+      }
+    },
+    "execution_time_sec": 49.0
+  },
+  "binary-signal-recovery-extreme-undersampling-sdp-majority-voting-and-recursive-successive": {
+    "formats": {},
+    "execution_time_sec": 50.67
+  },
+  "guarding-against-malicious-biased-threats-gambit-experiment-2": {
+    "formats": {},
+    "execution_time_sec": 52.33
+  },
+  "prompting-behaviors-pedagogical-tools-age-ai-empirical-insights-engineering-education": {
+    "formats": {},
+    "execution_time_sec": 54.0
+  }
+}

@@ -1,0 +1,156 @@
+***********************************************
+Validation 1- Repository Name, Dataset processed, Fetch start, Fetch end time and TimeTaken
+Repository: HuggingFaceDataRepository
+Datasets processed: 900
+Fetching started: 2025-10-14 12:33:39
+Fetching ended:   2025-10-14 12:40:37
+Time taken :0:06:58 hh:mm:sec)
+***********************************************
+*** Validation 2: The tool verifies consistency between file format counts ***
+*** and file size entries in  the raw per-dataset metadata JSON files
+array_record: count=104 | len(file_sizes)=100 -> MISMATCH
+
+avi: count=1 | len(file_sizes)=1 -> MATCH
+
+bib: count=1 | len(file_sizes)=1 -> MATCH
+
+bin: count=406 | len(file_sizes)=217 -> MATCH
+
+cfg: count=62 | len(file_sizes)=62 -> MATCH
+
+crc: count=2 | len(file_sizes)=2 -> MATCH
+
+csv: count=23660 | len(file_sizes)=1112 -> MATCH
+
+dat: count=16 | len(file_sizes)=16 -> MATCH
+
+dcm: count=344 | len(file_sizes)=169 -> MATCH
+
+dll: count=1 | len(file_sizes)=1 -> MATCH
+
+exe: count=7 | len(file_sizes)=7 -> MATCH
+
+exr: count=7544 | len(file_sizes)=105 -> MATCH
+
+gif: count=217 | len(file_sizes)=103 -> MATCH
+
+glb: count=14267 | len(file_sizes)=100 -> MISMATCH
+
+idx: count=85 | len(file_sizes)=85 -> MATCH
+
+invalidext: count=371553 | len(file_sizes)=4718 -> MATCH
+
+jpg: count=31251 | len(file_sizes)=1332 -> MATCH
+
+json: count=137119 | len(file_sizes)=2750 -> MATCH
+
+las: count=34 | len(file_sizes)=34 -> MATCH
+
+log: count=48 | len(file_sizes)=48 -> MATCH
+
+lst: count=8 | len(file_sizes)=8 -> MATCH
+
+lua: count=4055 | len(file_sizes)=100 -> MISMATCH
+
+m4a: count=1 | len(file_sizes)=1 -> MATCH
+
+mov: count=13 | len(file_sizes)=13 -> MATCH
+
+mtl: count=1 | len(file_sizes)=1 -> MATCH
+
+noext: count=1791 | len(file_sizes)=1471 -> MATCH
+
+npy: count=10 | len(file_sizes)=10 -> MATCH
+
+npz: count=23899 | len(file_sizes)=125 -> MATCH
+
+obj: count=185 | len(file_sizes)=148 -> MATCH
+
+ogg: count=116 | len(file_sizes)=100 -> MISMATCH
+
+out: count=729 | len(file_sizes)=101 -> MATCH
+
+parquet: count=412704 | len(file_sizes)=12442 -> MATCH
+
+pdb: count=1 | len(file_sizes)=1 -> MATCH
+
+pdf: count=18136 | len(file_sizes)=282 -> MATCH
+
+pkl: count=24 | len(file_sizes)=24 -> MATCH
+
+ply: count=31 | len(file_sizes)=31 -> MATCH
+
+png: count=303608 | len(file_sizes)=1611 -> MATCH
+
+psd: count=1 | len(file_sizes)=1 -> MATCH
+
+pth: count=9 | len(file_sizes)=9 -> MATCH
+
+py_: count=2 | len(file_sizes)=2 -> MATCH
+
+pyi: count=1 | len(file_sizes)=1 -> MATCH
+
+rar: count=3 | len(file_sizes)=3 -> MATCH
+
+rmd: count=4 | len(file_sizes)=4 -> MATCH
+
+sdf: count=1 | len(file_sizes)=1 -> MATCH
+
+shortext: count=38813 | len(file_sizes)=3052 -> MATCH
+
+sql: count=1 | len(file_sizes)=1 -> MATCH
+
+stl: count=1095 | len(file_sizes)=191 -> MATCH
+
+svg: count=38 | len(file_sizes)=38 -> MATCH
+
+tar: count=49074 | len(file_sizes)=1364 -> MATCH
+
+tfrecord: count=11360 | len(file_sizes)=196 -> MATCH
+
+tgt: count=3 | len(file_sizes)=3 -> MATCH
+
+tgz: count=13 | len(file_sizes)=13 -> MATCH
+
+tif: count=865 | len(file_sizes)=100 -> MISMATCH
+
+tmp: count=1 | len(file_sizes)=1 -> MATCH
+
+tsf: count=47 | len(file_sizes)=47 -> MATCH
+
+tsv: count=2157 | len(file_sizes)=472 -> MATCH
+
+txt: count=113847 | len(file_sizes)=1030 -> MATCH
+
+usd: count=1 | len(file_sizes)=1 -> MATCH
+
+vtm: count=8 | len(file_sizes)=8 -> MATCH
+
+vtp: count=19656 | len(file_sizes)=100 -> MISMATCH
+
+vtu: count=504 | len(file_sizes)=100 -> MISMATCH
+
+wav: count=61949 | len(file_sizes)=699 -> MATCH
+
+xls: count=121 | len(file_sizes)=121 -> MATCH
+
+xml: count=110 | len(file_sizes)=102 -> MATCH
+
+xmp: count=4055 | len(file_sizes)=100 -> MISMATCH
+
+yaml: count=76 | len(file_sizes)=76 -> MATCH
+
+zip: count=27878 | len(file_sizes)=959 -> MATCH
+
+**Validation 3: From repository raw metadata get top file formats **
+**and match with the tool or graph ===
+
+vtp: raw_count=19656 | tool_count=19656 -> MATCH
+tsv: raw_count=2157 | tool_count=2157 -> MATCH
+csv: raw_count=23660 | tool_count=23660 -> MATCH
+json: raw_count=137119 | tool_count=137119 -> MATCH
+parquet: raw_count=412704 | tool_count=412704 -> MATCH
+wav: raw_count=61949 | tool_count=61949 -> MATCH
+lua: raw_count=4055 | tool_count=4055 -> MATCH
+xmp: raw_count=4055 | tool_count=4055 -> MATCH
+exr: raw_count=7544 | tool_count=7544 -> MATCH

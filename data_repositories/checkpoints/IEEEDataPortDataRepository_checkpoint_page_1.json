@@ -1,0 +1,31 @@
+{
+  "format_counts": {
+    "avi": 5,
+    "csv": 18,
+    "txt": 10,
+    "mat": 6,
+    "png": 3,
+    "jpg": 2,
+    "exr": 1,
+    "zip": 6,
+    "pcap": 1,
+    "xslx": 1,
+    "excel": 2,
+    "data": 1,
+    "and": 1,
+    "text": 1,
+    "npy": 1,
+    "xlsx": 2,
+    "xls": 1,
+    "doc": 1,
+    "parquet": 1,
+    "pt": 2,
+    "obj": 1,
+    "log": 1,
+    "bytes": 1,
+    "ply": 1,
+    "mp4": 1,
+    "bin": 1
+  },
+  "file_sizes": {}
+}

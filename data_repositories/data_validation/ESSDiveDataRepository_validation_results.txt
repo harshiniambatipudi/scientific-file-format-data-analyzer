@@ -1,0 +1,534 @@
+***********************************************
+Validation 1- Repository Name, Dataset processed, Fetch start, Fetch end time and TimeTaken
+Repository: ESSDiveDataRepository
+Datasets processed: 1349
+Fetching started: 2025-10-14 10:59:16
+Fetching ended:   2025-10-14 11:53:47
+Time taken :0:54:31 hh:mm:sec)
+***********************************************
+*** Validation 2: The tool verifies consistency between file format counts ***
+*** and file size entries in  the raw per-dataset metadata JSON files
+00001-01803: count=1 | len(file_sizes)=1 -> MATCH
+
+123: count=1 | len(file_sizes)=1 -> MATCH
+
+125: count=1 | len(file_sizes)=1 -> MATCH
+
+127: count=1 | len(file_sizes)=1 -> MATCH
+
+129: count=1 | len(file_sizes)=1 -> MATCH
+
+137: count=1 | len(file_sizes)=1 -> MATCH
+
+139: count=1 | len(file_sizes)=1 -> MATCH
+
+143: count=1 | len(file_sizes)=1 -> MATCH
+
+177: count=1 | len(file_sizes)=1 -> MATCH
+
+183: count=1 | len(file_sizes)=1 -> MATCH
+
+185: count=1 | len(file_sizes)=1 -> MATCH
+
+187: count=1 | len(file_sizes)=1 -> MATCH
+
+189: count=1 | len(file_sizes)=1 -> MATCH
+
+191: count=1 | len(file_sizes)=1 -> MATCH
+
+195: count=1 | len(file_sizes)=1 -> MATCH
+
+1st: count=1 | len(file_sizes)=1 -> MATCH
+
+7z: count=109 | len(file_sizes)=109 -> MATCH
+
+aa: count=2 | len(file_sizes)=2 -> MATCH
+
+ab: count=2 | len(file_sizes)=2 -> MATCH
+
+ac: count=2 | len(file_sizes)=2 -> MATCH
+
+ad: count=2 | len(file_sizes)=2 -> MATCH
+
+ae: count=1 | len(file_sizes)=1 -> MATCH
+
+af: count=1 | len(file_sizes)=1 -> MATCH
+
+ag: count=1 | len(file_sizes)=1 -> MATCH
+
+ah: count=1 | len(file_sizes)=1 -> MATCH
+
+air: count=41 | len(file_sizes)=41 -> MATCH
+
+ano: count=3 | len(file_sizes)=3 -> MATCH
+
+apr: count=1 | len(file_sizes)=1 -> MATCH
+
+asc: count=38 | len(file_sizes)=38 -> MATCH
+
+atl: count=1 | len(file_sizes)=1 -> MATCH
+
+aug: count=1 | len(file_sizes)=1 -> MATCH
+
+avi: count=12 | len(file_sizes)=12 -> MATCH
+
+bash: count=3 | len(file_sizes)=3 -> MATCH
+
+bna: count=1 | len(file_sizes)=1 -> MATCH
+
+bs: count=3 | len(file_sizes)=3 -> MATCH
+
+c: count=1 | len(file_sizes)=1 -> MATCH
+
+c14: count=2 | len(file_sizes)=2 -> MATCH
+
+cap: count=1 | len(file_sizes)=1 -> MATCH
+
+cgo: count=2 | len(file_sizes)=2 -> MATCH
+
+co2: count=14 | len(file_sizes)=14 -> MATCH
+
+cod: count=3 | len(file_sizes)=3 -> MATCH
+
+code: count=1 | len(file_sizes)=1 -> MATCH
+
+con: count=1 | len(file_sizes)=1 -> MATCH
+
+cpg: count=6 | len(file_sizes)=6 -> MATCH
+
+csi: count=1 | len(file_sizes)=1 -> MATCH
+
+csv: count=4087 | len(file_sizes)=4087 -> MATCH
+
+dat: count=1247 | len(file_sizes)=1247 -> MATCH
+
+data: count=7 | len(file_sizes)=7 -> MATCH
+
+datold: count=1 | len(file_sizes)=1 -> MATCH
+
+day: count=1 | len(file_sizes)=1 -> MATCH
+
+dbf: count=6 | len(file_sizes)=6 -> MATCH
+
+dec: count=1 | len(file_sizes)=1 -> MATCH
+
+des: count=2 | len(file_sizes)=2 -> MATCH
+
+dld: count=1 | len(file_sizes)=1 -> MATCH
+
+doc: count=52 | len(file_sizes)=52 -> MATCH
+
+docx: count=33 | len(file_sizes)=33 -> MATCH
+
+ds_store: count=3 | len(file_sizes)=3 -> MATCH
+
+e00: count=22 | len(file_sizes)=22 -> MATCH
+
+ems: count=12 | len(file_sizes)=12 -> MATCH
+
+eps: count=4 | len(file_sizes)=4 -> MATCH
+
+errata: count=1 | len(file_sizes)=1 -> MATCH
+
+eur: count=1 | len(file_sizes)=1 -> MATCH
+
+exo: count=21 | len(file_sizes)=21 -> MATCH
+
+f: count=1 | len(file_sizes)=1 -> MATCH
+
+f1: count=1 | len(file_sizes)=1 -> MATCH
+
+f10: count=2 | len(file_sizes)=2 -> MATCH
+
+f11: count=2 | len(file_sizes)=2 -> MATCH
+
+f12: count=2 | len(file_sizes)=2 -> MATCH
+
+f13: count=1 | len(file_sizes)=1 -> MATCH
+
+f2: count=2 | len(file_sizes)=2 -> MATCH
+
+f3: count=2 | len(file_sizes)=2 -> MATCH
+
+f4: count=2 | len(file_sizes)=2 -> MATCH
+
+f5: count=2 | len(file_sizes)=2 -> MATCH
+
+f6: count=2 | len(file_sizes)=2 -> MATCH
+
+f7: count=2 | len(file_sizes)=2 -> MATCH
+
+f8: count=2 | len(file_sizes)=2 -> MATCH
+
+f9: count=2 | len(file_sizes)=2 -> MATCH
+
+f90: count=1 | len(file_sizes)=1 -> MATCH
+
+fasta: count=4 | len(file_sizes)=4 -> MATCH
+
+feb: count=1 | len(file_sizes)=1 -> MATCH
+
+fo1: count=1 | len(file_sizes)=1 -> MATCH
+
+fo2: count=1 | len(file_sizes)=1 -> MATCH
+
+fo3: count=1 | len(file_sizes)=1 -> MATCH
+
+fo4: count=1 | len(file_sizes)=1 -> MATCH
+
+for: count=70 | len(file_sizes)=70 -> MATCH
+
+forest1: count=1 | len(file_sizes)=1 -> MATCH
+
+forest2: count=1 | len(file_sizes)=1 -> MATCH
+
+fr1: count=3 | len(file_sizes)=3 -> MATCH
+
+fr2: count=3 | len(file_sizes)=3 -> MATCH
+
+gap: count=1 | len(file_sizes)=1 -> MATCH
+
+geojson: count=1 | len(file_sizes)=1 -> MATCH
+
+gif: count=120 | len(file_sizes)=120 -> MATCH
+
+gitignore: count=1 | len(file_sizes)=1 -> MATCH
+
+gpkg: count=7 | len(file_sizes)=7 -> MATCH
+
+gpz: count=3 | len(file_sizes)=3 -> MATCH
+
+grd: count=16 | len(file_sizes)=16 -> MATCH
+
+gz: count=523 | len(file_sizes)=523 -> MATCH
+
+h2o: count=41 | len(file_sizes)=41 -> MATCH
+
+h5: count=54 | len(file_sizes)=54 -> MATCH
+
+hdr: count=10 | len(file_sizes)=10 -> MATCH
+
+header: count=2 | len(file_sizes)=2 -> MATCH
+
+help: count=1 | len(file_sizes)=1 -> MATCH
+
+his: count=1 | len(file_sizes)=1 -> MATCH
+
+hou: count=1 | len(file_sizes)=1 -> MATCH
+
+hpf: count=1 | len(file_sizes)=1 -> MATCH
+
+htm: count=7 | len(file_sizes)=7 -> MATCH
+
+html: count=12 | len(file_sizes)=12 -> MATCH
+
+ico: count=1 | len(file_sizes)=1 -> MATCH
+
+in: count=7 | len(file_sizes)=7 -> MATCH
+
+ind: count=2 | len(file_sizes)=2 -> MATCH
+
+inv: count=10 | len(file_sizes)=10 -> MATCH
+
+ipynb: count=5 | len(file_sizes)=5 -> MATCH
+
+jan: count=1 | len(file_sizes)=1 -> MATCH
+
+jpg: count=287 | len(file_sizes)=287 -> MATCH
+
+json: count=4 | len(file_sizes)=4 -> MATCH
+
+jul: count=1 | len(file_sizes)=1 -> MATCH
+
+jun: count=1 | len(file_sizes)=1 -> MATCH
+
+kml: count=74 | len(file_sizes)=74 -> MATCH
+
+kmz: count=48 | len(file_sizes)=48 -> MATCH
+
+las: count=2 | len(file_sizes)=2 -> MATCH
+
+lay: count=1 | len(file_sizes)=1 -> MATCH
+
+log: count=24 | len(file_sizes)=24 -> MATCH
+
+lst: count=26 | len(file_sizes)=26 -> MATCH
+
+lvp: count=14 | len(file_sizes)=14 -> MATCH
+
+m: count=6 | len(file_sizes)=6 -> MATCH
+
+mar: count=1 | len(file_sizes)=1 -> MATCH
+
+mat: count=6 | len(file_sizes)=6 -> MATCH
+
+may: count=1 | len(file_sizes)=1 -> MATCH
+
+md: count=60 | len(file_sizes)=60 -> MATCH
+
+mdb: count=2 | len(file_sizes)=2 -> MATCH
+
+met: count=4 | len(file_sizes)=4 -> MATCH
+
+metold: count=1 | len(file_sizes)=1 -> MATCH
+
+mon: count=1 | len(file_sizes)=1 -> MATCH
+
+mov: count=1 | len(file_sizes)=1 -> MATCH
+
+mp4: count=21 | len(file_sizes)=21 -> MATCH
+
+mrl: count=1 | len(file_sizes)=1 -> MATCH
+
+nam: count=1 | len(file_sizes)=1 -> MATCH
+
+nc: count=2114 | len(file_sizes)=2114 -> MATCH
+
+nov: count=1 | len(file_sizes)=1 -> MATCH
+
+npy: count=2 | len(file_sizes)=2 -> MATCH
+
+oct: count=1 | len(file_sizes)=1 -> MATCH
+
+org: count=1 | len(file_sizes)=1 -> MATCH
+
+ovr: count=3 | len(file_sizes)=3 -> MATCH
+
+pac: count=1 | len(file_sizes)=1 -> MATCH
+
+pdf: count=619 | len(file_sizes)=619 -> MATCH
+
+plan: count=1 | len(file_sizes)=1 -> MATCH
+
+png: count=435 | len(file_sizes)=435 -> MATCH
+
+pre: count=1 | len(file_sizes)=1 -> MATCH
+
+prj: count=9 | len(file_sizes)=9 -> MATCH
+
+prn: count=9 | len(file_sizes)=9 -> MATCH
+
+prs: count=1 | len(file_sizes)=1 -> MATCH
+
+ps: count=4 | len(file_sizes)=4 -> MATCH
+
+ps2: count=1 | len(file_sizes)=1 -> MATCH
+
+py: count=33 | len(file_sizes)=33 -> MATCH
+
+qal: count=1 | len(file_sizes)=1 -> MATCH
+
+qar: count=1 | len(file_sizes)=1 -> MATCH
+
+qaz: count=1 | len(file_sizes)=1 -> MATCH
+
+qca: count=1 | len(file_sizes)=1 -> MATCH
+
+qco: count=1 | len(file_sizes)=1 -> MATCH
+
+qct: count=1 | len(file_sizes)=1 -> MATCH
+
+qde: count=1 | len(file_sizes)=1 -> MATCH
+
+qfl: count=1 | len(file_sizes)=1 -> MATCH
+
+qga: count=1 | len(file_sizes)=1 -> MATCH
+
+qia: count=1 | len(file_sizes)=1 -> MATCH
+
+qid: count=1 | len(file_sizes)=1 -> MATCH
+
+qil: count=1 | len(file_sizes)=1 -> MATCH
+
+qin: count=1 | len(file_sizes)=1 -> MATCH
+
+qks: count=1 | len(file_sizes)=1 -> MATCH
+
+qky: count=1 | len(file_sizes)=1 -> MATCH
+
+qla: count=1 | len(file_sizes)=1 -> MATCH
+
+qma: count=1 | len(file_sizes)=1 -> MATCH
+
+qmd: count=1 | len(file_sizes)=1 -> MATCH
+
+qme: count=1 | len(file_sizes)=1 -> MATCH
+
+qmi: count=1 | len(file_sizes)=1 -> MATCH
+
+qmn: count=1 | len(file_sizes)=1 -> MATCH
+
+qmo: count=1 | len(file_sizes)=1 -> MATCH
+
+qms: count=1 | len(file_sizes)=1 -> MATCH
+
+qmt: count=1 | len(file_sizes)=1 -> MATCH
+
+qnh: count=1 | len(file_sizes)=1 -> MATCH
+
+qnj: count=1 | len(file_sizes)=1 -> MATCH
+
+qnm: count=1 | len(file_sizes)=1 -> MATCH
+
+qnv: count=1 | len(file_sizes)=1 -> MATCH
+
+qny: count=1 | len(file_sizes)=1 -> MATCH
+
+qoh: count=1 | len(file_sizes)=1 -> MATCH
+
+qok: count=1 | len(file_sizes)=1 -> MATCH
+
+qor: count=1 | len(file_sizes)=1 -> MATCH
+
+qpa: count=1 | len(file_sizes)=1 -> MATCH
+
+qpj: count=4 | len(file_sizes)=4 -> MATCH
+
+qri: count=1 | len(file_sizes)=1 -> MATCH
+
+qsc: count=1 | len(file_sizes)=1 -> MATCH
+
+qsd: count=1 | len(file_sizes)=1 -> MATCH
+
+qtn: count=1 | len(file_sizes)=1 -> MATCH
+
+qtx: count=1 | len(file_sizes)=1 -> MATCH
+
+qut: count=1 | len(file_sizes)=1 -> MATCH
+
+qva: count=1 | len(file_sizes)=1 -> MATCH
+
+qvt: count=1 | len(file_sizes)=1 -> MATCH
+
+qwa: count=1 | len(file_sizes)=1 -> MATCH
+
+qwi: count=1 | len(file_sizes)=1 -> MATCH
+
+qwv: count=1 | len(file_sizes)=1 -> MATCH
+
+r: count=48 | len(file_sizes)=48 -> MATCH
+
+rda: count=1 | len(file_sizes)=1 -> MATCH
+
+rdata: count=2 | len(file_sizes)=2 -> MATCH
+
+rds: count=85 | len(file_sizes)=85 -> MATCH
+
+rev: count=1 | len(file_sizes)=1 -> MATCH
+
+rinex: count=9 | len(file_sizes)=9 -> MATCH
+
+rmd: count=20 | len(file_sizes)=20 -> MATCH
+
+rproj: count=1 | len(file_sizes)=1 -> MATCH
+
+rtcm3: count=9 | len(file_sizes)=9 -> MATCH
+
+rtf: count=2 | len(file_sizes)=2 -> MATCH
+
+sa1: count=1 | len(file_sizes)=1 -> MATCH
+
+sa2: count=1 | len(file_sizes)=1 -> MATCH
+
+sa3: count=1 | len(file_sizes)=1 -> MATCH
+
+sa4: count=1 | len(file_sizes)=1 -> MATCH
+
+sas: count=96 | len(file_sizes)=96 -> MATCH
+
+sas7bdat: count=4 | len(file_sizes)=4 -> MATCH
+
+sbatch: count=1 | len(file_sizes)=1 -> MATCH
+
+sbn: count=2 | len(file_sizes)=2 -> MATCH
+
+sbx: count=2 | len(file_sizes)=2 -> MATCH
+
+sep: count=1 | len(file_sizes)=1 -> MATCH
+
+sh: count=4 | len(file_sizes)=4 -> MATCH
+
+shp: count=6 | len(file_sizes)=6 -> MATCH
+
+shx: count=6 | len(file_sizes)=6 -> MATCH
+
+stg: count=19 | len(file_sizes)=19 -> MATCH
+
+sur: count=1 | len(file_sizes)=1 -> MATCH
+
+tak: count=1 | len(file_sizes)=1 -> MATCH
+
+tar: count=34 | len(file_sizes)=34 -> MATCH
+
+tbl: count=1 | len(file_sizes)=1 -> MATCH
+
+tec: count=2 | len(file_sizes)=2 -> MATCH
+
+tfw: count=2 | len(file_sizes)=2 -> MATCH
+
+tgz: count=7 | len(file_sizes)=7 -> MATCH
+
+tif: count=297 | len(file_sizes)=297 -> MATCH
+
+tiff: count=13 | len(file_sizes)=13 -> MATCH
+
+tm1: count=1 | len(file_sizes)=1 -> MATCH
+
+tm2: count=1 | len(file_sizes)=1 -> MATCH
+
+tot: count=2 | len(file_sizes)=2 -> MATCH
+
+tre: count=1 | len(file_sizes)=1 -> MATCH
+
+tsv: count=2 | len(file_sizes)=2 -> MATCH
+
+txt: count=391 | len(file_sizes)=391 -> MATCH
+
+txtold: count=1 | len(file_sizes)=1 -> MATCH
+
+vem: count=1 | len(file_sizes)=1 -> MATCH
+
+ver: count=1 | len(file_sizes)=1 -> MATCH
+
+wk1: count=17 | len(file_sizes)=17 -> MATCH
+
+wk4: count=1 | len(file_sizes)=1 -> MATCH
+
+wp: count=1 | len(file_sizes)=1 -> MATCH
+
+wp6: count=1 | len(file_sizes)=1 -> MATCH
+
+wpd: count=3 | len(file_sizes)=3 -> MATCH
+
+wpt: count=1 | len(file_sizes)=1 -> MATCH
+
+xls: count=210 | len(file_sizes)=210 -> MATCH
+
+xlsx: count=223 | len(file_sizes)=223 -> MATCH
+
+xml: count=1853 | len(file_sizes)=1853 -> MATCH
+
+xyz: count=1 | len(file_sizes)=1 -> MATCH
+
+yml: count=1 | len(file_sizes)=1 -> MATCH
+
+yr20: count=1 | len(file_sizes)=1 -> MATCH
+
+yr75: count=1 | len(file_sizes)=1 -> MATCH
+
+z: count=873 | len(file_sizes)=873 -> MATCH
+
+zip: count=1396 | len(file_sizes)=1396 -> MATCH
+
+**Validation 3: From repository raw metadata get top file formats **
+**and match with the tool or graph ===
+
+rds: raw_count=85 | tool_count=85 -> MATCH
+xml: raw_count=1853 | tool_count=1853 -> MATCH
+tif: raw_count=310 | tool_count=310 -> MATCH
+xlsx: raw_count=433 | tool_count=433 -> MATCH
+kml: raw_count=74 | tool_count=74 -> MATCH
+sas: raw_count=96 | tool_count=96 -> MATCH
+dat: raw_count=1247 | tool_count=1247 -> MATCH
+netcdf: raw_count=2114 | tool_count=2114 -> MATCH
+csv: raw_count=4087 | tool_count=4087 -> MATCH

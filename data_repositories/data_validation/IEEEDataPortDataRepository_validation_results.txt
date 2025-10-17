@@ -1,0 +1,21 @@
+***********************************************
+Validation 1- Repository Name, Dataset processed, Fetch start, Fetch end time and TimeTaken
+Repository: IEEEDataPortDataRepository
+Datasets processed: 598
+Fetching started: 2025-10-14 13:34:27
+Fetching ended:   2025-10-14 14:03:53
+Time taken :0:29:26 hh:mm:sec)
+***********************************************
+Validation 2: check if raw repository metadata counts vs length of sizes matches is not applied as file_sizes is empty
+**Validation 3: From repository raw metadata get top file formats **
+**and match with the tool or graph ===
+
+pickle: raw_count=5 | tool_count=5 -> MATCH
+xlsx: raw_count=38 | tool_count=38 -> MATCH
+json: raw_count=19 | tool_count=19 -> MATCH
+csv: raw_count=191 | tool_count=191 -> MATCH
+data: raw_count=7 | tool_count=7 -> MATCH
+exr: raw_count=10 | tool_count=10 -> MATCH
+mat: raw_count=35 | tool_count=35 -> MATCH
+avi: raw_count=44 | tool_count=44 -> MATCH
+bmp: raw_count=4 | tool_count=4 -> MATCH
