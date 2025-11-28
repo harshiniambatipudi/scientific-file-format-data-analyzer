@@ -1,6 +1,7 @@
 # Scientific File Format Data Analyzer
 
-Analyzes file format distributions across major scientific data repositories: Data.gov, ESS-DIVE, HuggingFace, and IEEE Dataport.
+Analyzes file format distributions across major scientific data repositories: Data.gov, ESS-DIVE, HuggingFace, and IEEE Dataport.  
+This project was developed under the guidance of **Dr. Suren Byna**, Professor in the Department of Computer Science and Engineering (CSE) at The Ohio State University (OSU).
 
 ## Features
 
@@ -81,3 +82,5 @@ The analyzer generates:
 - Delete `format_counts/*.json` to force a fresh fetch
 - Checkpoints allow resuming if fetch is interrupted
 - Raw data is saved to disk; normalization happens in-memory only
+
+ 
